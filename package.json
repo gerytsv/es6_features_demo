@@ -1,0 +1,14 @@
+{
+	"name": "es6_features_playground",
+	"version": "1.0.0",
+	"description": "ES6 features demo",
+	"main": "index.js",
+	"author": "Gergana Tsvetkova",
+	"license": "Apache-2.0",
+	"scripts": {
+		"start": "lite-server"
+	},
+	"devDependencies": {
+		"lite-server": "^2.6.1"
+	}
+}
